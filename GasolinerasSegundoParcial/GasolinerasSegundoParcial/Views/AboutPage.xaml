@@ -4,7 +4,7 @@
              x:Class="GasolinerasSegundoParcial.Views.AboutPage"
              xmlns:vm="clr-namespace:GasolinerasSegundoParcial.ViewModels"
              Title="{Binding Title}">
-    // prueba
+
     <ContentPage.BindingContext>
         <vm:AboutViewModel />
     </ContentPage.BindingContext>
