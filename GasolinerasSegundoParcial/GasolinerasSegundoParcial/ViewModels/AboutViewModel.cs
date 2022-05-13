@@ -3,7 +3,7 @@ using System.Windows.Input;
 using Xamarin.Essentials;
 using Xamarin.Forms;
 
-// orueba
+// hola mundo
 namespace GasolinerasSegundoParcial.ViewModels
 {
     public class AboutViewModel : BaseViewModel
