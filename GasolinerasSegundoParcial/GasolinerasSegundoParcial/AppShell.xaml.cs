@@ -19,5 +19,7 @@ namespace GasolinerasSegundoParcial
         {
             await Shell.Current.GoToAsync("//LoginPage");
         }
+
+        //Comentario de prueba para subir a git
     }
 }
