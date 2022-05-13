@@ -9,6 +9,7 @@ using Xamarin.Forms;
 namespace GasolinerasSegundoParcial.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
+        //hola esta es una prueba 
     {
         public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>();
 
